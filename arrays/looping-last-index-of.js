@@ -6,7 +6,7 @@ function lastIndexOf(array, value){
   }
   return -1;
 }
-
+a
 console.log(lastIndexOf([ 0, 1, 4, 1, 2 ], 1), "=?", 3);
 console.log(lastIndexOf([ 0, 1, 4, 1, 2 ], 2), "=?", 4);
 console.log(lastIndexOf([ 0, 1, 4, 1, 2 ], 3), "=?", -1);
